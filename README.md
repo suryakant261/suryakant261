@@ -1,5 +1,7 @@
 ### Hi there, I am Suryakant Pandey 👋
 
+<img align="right" alt="Coding" width="400"  src="https://github.com/suryakant261/suryakant261/blob/main/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryakant261&label=Profile%20views&color=0e75b6&style=flat" alt="suryakant261" /> </p>
 
 - 📫 How to reach me: **pd.skant@gmail.com**
